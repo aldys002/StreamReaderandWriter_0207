@@ -19,5 +19,5 @@ int main() {
     }
     cout << "Baris Program Yang Terakhir" << endl;
     /*penanda 2 : bahasa program berjalan tanpa berhenti meskipun terjadi kesalahan*/
-    
+    return 0;
 }
